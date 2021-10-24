@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/AdviserAssistant/static/css/main.a617e044.chunk.css",
+    "main.js": "/AdviserAssistant/static/js/main.c209967d.chunk.js",
+    "main.js.map": "/AdviserAssistant/static/js/main.c209967d.chunk.js.map",
+    "runtime-main.js": "/AdviserAssistant/static/js/runtime-main.9e9fb07c.js",
+    "runtime-main.js.map": "/AdviserAssistant/static/js/runtime-main.9e9fb07c.js.map",
+    "static/js/2.89bfc458.chunk.js": "/AdviserAssistant/static/js/2.89bfc458.chunk.js",
+    "static/js/2.89bfc458.chunk.js.map": "/AdviserAssistant/static/js/2.89bfc458.chunk.js.map",
+    "static/js/3.bf6c0d14.chunk.js": "/AdviserAssistant/static/js/3.bf6c0d14.chunk.js",
+    "static/js/3.bf6c0d14.chunk.js.map": "/AdviserAssistant/static/js/3.bf6c0d14.chunk.js.map",
+    "index.html": "/AdviserAssistant/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/AdviserAssistant/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.89bfc458.chunk.js.LICENSE.txt": "/AdviserAssistant/static/js/2.89bfc458.chunk.js.LICENSE.txt",
+    "static/media/img_logo.e1943dbe.png": "/AdviserAssistant/static/media/img_logo.e1943dbe.png",
+    "static/media/logo.6ce24c58.svg": "/AdviserAssistant/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e9fb07c.js",
+    "static/js/2.89bfc458.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.c209967d.chunk.js"
+  ]
+}
