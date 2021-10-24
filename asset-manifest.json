@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/AdviserAssistant/static/css/main.a617e044.chunk.css",
-    "main.js": "/AdviserAssistant/static/js/main.c209967d.chunk.js",
-    "main.js.map": "/AdviserAssistant/static/js/main.c209967d.chunk.js.map",
+    "main.js": "/AdviserAssistant/static/js/main.8708b90f.chunk.js",
+    "main.js.map": "/AdviserAssistant/static/js/main.8708b90f.chunk.js.map",
     "runtime-main.js": "/AdviserAssistant/static/js/runtime-main.9e9fb07c.js",
     "runtime-main.js.map": "/AdviserAssistant/static/js/runtime-main.9e9fb07c.js.map",
     "static/js/2.89bfc458.chunk.js": "/AdviserAssistant/static/js/2.89bfc458.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.9e9fb07c.js",
     "static/js/2.89bfc458.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.c209967d.chunk.js"
+    "static/js/main.8708b90f.chunk.js"
   ]
 }
